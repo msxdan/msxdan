@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**FenixDan/FenixDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**marvin-noel/marvin-noel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![FenixDan's github stats](https://github-readme-stats.vercel.app/api?username=fenixdan&show_icons=true&count_private=true&theme=react&show_owner=false&icon_color=F7CA18)](https://github.com/fenixdan/fenixdan)
+[![Marvin's github stats](https://github-readme-stats.vercel.app/api?username=marvin-noel&show_icons=true&count_private=true&theme=react&show_owner=false&icon_color=F7CA18)](https://github.com/marvin-noel/marvin-noel)
