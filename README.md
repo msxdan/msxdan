@@ -1,17 +1,19 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=msxdan&color=blue)
+![](https://img.shields.io/website?url=https://marvincloud.io)
 
-<!--
-**marvin-noel/marvin-noel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A little bit about me..
 
-Here are some ideas to get you started:
+Hi there! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Marvin's github stats](https://github-readme-stats.vercel.app/api?username=msxdan&show_icons=true&count_private=true&theme=react&show_owner=false&icon_color=F7CA18)](https://github.com/marvin-noel/marvin-noel)
+I'm Marvin, a passionated about technology and lifelong learner
+
+- 🔭 I’m currently working at [MasOrange]
+- 🌱 I’m currently working on my homelab (WIP)
+- 💬 Ask me about any tech related stuff (DevOps, Security, Reverse Engineering, etc.)
+- 💻 Connect with me on [LinkedIn]
+- 🤓 I spend most weekends learning about DevOps and working on personal projects
+
+<!-- links -->
+
+[MasOrange]: https://github.com/masmovil
+[LinkedIn]: https://www.linkedin.com/in/marvin-noel/
