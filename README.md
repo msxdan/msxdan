@@ -5,7 +5,7 @@
 
 Hi there! 👋 My name is Marvin
 
-I'm passionate about technology and lifelong learner
+I'm passionate about technology and a lifelong learner
 
 - 🔭 I’m currently working at **[MasOrange]**
 - 🌱 I’m currently working on my **homelab** (Planned to make it public this year)
