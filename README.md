@@ -7,7 +7,7 @@ Hi there! 👋 My name is Marvin
 
 I'm passionate about technology and a lifelong learner
 
-- 🔭 I’m currently working at **[MasOrange]**
+- 🔭 I’m currently working at **[Endesa]**
 - 🌱 I’m currently working on my **homelab** (Planned to make it public this year)
 - 💬 Ask me about any tech related stuff (DevOps, Security, Reverse Engineering, etc.)
 - 💻 Connect with me on [LinkedIn]
@@ -15,5 +15,5 @@ I'm passionate about technology and a lifelong learner
 
 <!-- links -->
 
-[MasOrange]: https://github.com/masmovil
+[Endesa]: https://www.endesa.com/
 [LinkedIn]: https://www.linkedin.com/in/marvin-noel/
